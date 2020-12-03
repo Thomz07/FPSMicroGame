@@ -427,7 +427,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/FPS/Prefabs/Enemies
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\Thomas\Documents\GitHub\FPS Micro Game
+  m_LastProjectPath: C:\Users\Thomas\Documents\GitHub\FPSMicroGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
